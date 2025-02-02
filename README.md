@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+🔭 I’m currently working on: **Tech and innovation projects, exploring AI, IoT, and automation.**  
+
+👯 I’m looking to collaborate on: **AI and automation projects**, especially in **neural networks** and **market trading automation**.  
+
+🤝 I’m looking for help with: **advanced AI applications**.  
+
+🌱 I’m currently learning: **VLSI design, competitive programming (TCS CodeVita), and business scaling for my startup, Third Eye**.  
+
+💬 Ask me about: **Arduino projects, AI/ML, competitive programming, and handmade embroidery business strategies**.  
+
+⚡ Fun fact: **I love combining technology with real-world solutions, whether it's automation or supporting artisans through my startup!**  
+
+---
+
+Let me know if you want any tweaks! 🚀
 
 
 ## 🌐 Socials:
