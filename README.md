@@ -6,11 +6,11 @@
 
 🤝 I’m looking for help with: **advanced AI applications**.  
 
-🌱 I’m currently learning: **NextJS,ExpressJS,DSA,Competitive Programming**.  
+🌱 I’m currently learning: **Next JS,Express JS,DSA,Competitive Programming**.  
 
 💬 Ask me about: **Arduino projects, AI/ML, competitive programming, and Trading**.  
 
-⚡ Fun fact: **I love combining technology with real-world solutions, whether it's automation or supporting artisans through my startup!**  
+⚡ Fun fact: **My debugging process involves 90% frustration, 9% accidental success, and 1% pretending I knew what I was doing all along.**  
 
 ---
 
