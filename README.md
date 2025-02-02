@@ -6,9 +6,9 @@
 
 🤝 I’m looking for help with: **advanced AI applications**.  
 
-🌱 I’m currently learning: **VLSI design, competitive programming (TCS CodeVita), and business scaling for my startup, Third Eye**.  
+🌱 I’m currently learning: **NextJS,ExpressJS,DSA,Competitive Programming**.  
 
-💬 Ask me about: **Arduino projects, AI/ML, competitive programming, and handmade embroidery business strategies**.  
+💬 Ask me about: **Arduino projects, AI/ML, competitive programming, and Trading**.  
 
 ⚡ Fun fact: **I love combining technology with real-world solutions, whether it's automation or supporting artisans through my startup!**  
 
